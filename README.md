@@ -3,11 +3,10 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-NLP-4A90D9?style=flat)
-![Streamlit](https://img.shields.io/badge/style=flat&logo=streamlit&logoColor=white)
-![Status](https://img.shields.io/badge/style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat)
 
-> An NLP pipeline that classifies emails as **Spam or Ham** using text preprocessing, TF-IDF vectorization, and Naive Bayes — deployed as an interactive Streamlit web app.
-
+> An NLP pipeline that classifies emails as **Spam or Ham** using text preprocessing, TF-IDF vectorization, and Naive Bayes — implemented with an interactive Streamlit interface.
 ---
 
 ## 🎯 Problem Statement
