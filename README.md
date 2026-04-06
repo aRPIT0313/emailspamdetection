@@ -176,5 +176,6 @@ Display: SPAM 🚨 or NOT SPAM ✅
 
 ## Results
 ![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/email/ham.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/email/sapm.png)
 
 ---
