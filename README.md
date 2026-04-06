@@ -174,4 +174,7 @@ Display: SPAM 🚨 or NOT SPAM ✅
 - [ ] Add confidence score display in the UI
 - [ ] Extend to multi-class: spam / phishing / promotional / legitimate
 
+## Results
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/email/ham.png)
+
 ---
